@@ -15,7 +15,7 @@ Except Where Otherwise Noted, This SoftWare Is Licensed Under A [Creative Common
 
 ### COPYRIGHT
 
-Copyright © 2020, SkyMazStudio. 
+Copyright © 2020 - 2021, SkyMazStudio. 
 
 All Rights Reserved.
 
@@ -64,7 +64,7 @@ When You And Any Person Who Derived, Directly Or Indirectly, From You Completely
 
 ### 版权声明
 
-版权所有 © 2020，SkyMazStudio。
+版权所有 © 2020 - 2021，SkyMazStudio。
 
 保留所有权利。
 
@@ -113,7 +113,7 @@ When You And Any Person Who Derived, Directly Or Indirectly, From You Completely
 
 ### 版權聲明
 
-版權所有©2020，SkyMazStudio。
+版權所有 © 2020 - 2021，SkyMazStudio。
 
 保留所有權利。
 
